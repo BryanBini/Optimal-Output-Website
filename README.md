@@ -142,7 +142,7 @@
   <section id="contact">
     <h2>Contact Us</h2>
     <p>Email: info@optimaloutput.com</p>
-    <p>Phone: (123) 456-7890</p>
+    <p>Phone: (201) 469-7291</p>
     <p>Or use the contact form (coming soon!)</p>
   </section>
 
